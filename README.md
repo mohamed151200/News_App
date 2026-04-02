@@ -36,7 +36,6 @@ This project is built using modern software engineering practices to ensure scal
 
 ## ✨ Key Features
 * **Dynamic Categories:** Instantly filter news by Business, Sports, Technology, and more.
-* **Search Functionality:** Find specific articles using optimized API queries.
 * **Persistence:** Theme preferences are saved for a consistent user experience.
 * **Responsive UI:** Optimized for various screen sizes and orientations.
 
