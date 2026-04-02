@@ -7,7 +7,8 @@ A lightweight, high-performance news aggregator built with **Flutter**, featurin
 ---
 
 ## 📸 Project Showcase
-<img src="ss/Gif.gif" alt="News App Demo" width="300"/>*Real-time news fetching with seamless category switching.*
+<img src="ss/Gif.gif" alt="News App Demo" width="300"/>
+*Real-time news fetching with seamless category switching.*
 
 ---
 
